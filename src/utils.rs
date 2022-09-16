@@ -79,7 +79,3 @@ pub(crate) struct GrammarJSON {
     supertypes: Vec<String>,
     word: Option<String>,
 }
-
-
-
-fn dummyTest ( ) {}
